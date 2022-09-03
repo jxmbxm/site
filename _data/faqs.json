@@ -1,0 +1,33 @@
+[
+    {
+        "title": "Shipping",
+        "collapse" : "collapseOne",
+        "show" : "show",
+        "description": "&lt;This is where you tell people what your shipping costs are.> It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+    },
+    {
+        "title": "Returns",
+        "collapse" : "collapsetwo",
+        "description": "&lt;This is where you tell people how to return an item, and how much it costs.> It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+    },  
+    {
+        "title": "Damaged items",
+        "collapse" : "collapsethree",
+        "description": "&lt;This is where you tell people what to do if they receive an item that was damaged during shipment, or doesn’t work when they receive it.> It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference. "
+    },  
+    {
+        "title": "Custom Orders",
+        "collapse" : "collapsefour",
+        "description": "&lt;This is where you tell people if your store offers custom orders, and how they can place a custom order.> It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+    },  
+    {
+        "title": "Design Services",
+        "collapse" : "collapsefive",
+        "description": "&lt;This is where you tell people if you offer interior design services, and how they can start a project.> It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference. "
+    },  
+    {
+        "title": "Rentals",
+        "collapse" : "collapsesix",
+        "description": "&lt;This is where you let people know if your store rents furniture for photo and film shoots.> It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference."
+    }
+]

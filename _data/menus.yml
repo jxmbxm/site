@@ -1,0 +1,27 @@
+primary:
+  - title: Main Menu
+    subfolderitems:
+      - name: "Credits"
+        url: "/credits/"
+        weight: 2
+      - name: "About"
+        url: "/about/"
+        weight: 3
+      - name: "Contact"
+        url: "/contact/"
+        weight: 2
+
+footer_menu_three_title: Company
+footer_menu:
+
+- title: "About"
+  url: "/about/"
+
+- title: "FAQ"
+  url: "/faq/"
+
+- title: "Contact"
+  url: "/contact/"
+
+- title: "Follow"
+  url: "http://squarespace.com/"

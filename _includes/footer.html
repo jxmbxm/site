@@ -1,0 +1,31 @@
+<!-- footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="footer-widget">
+                    <div class="logo">
+                        <a href="{{site.baseurl}}/">
+                            Jxm.Bxm
+                        </a>
+                    </div>
+                </div>
+            </div><!--  ./col -->
+
+            <div class="col-md-6">
+                <div class="footer-widget">
+                    <ul class="widget-list">
+                        {% for item in site.data.menus.footer_menu %}
+                            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div><!-- ./col -->
+        </div><!-- ./row -->
+    </div><!-- ./container -->
+</footer><!-- ./footer -->
+
+<!-- back to top -->
+<a href="#" id="back-to-top">
+  <i class="fas fa-level-up-alt"></i>
+</a>

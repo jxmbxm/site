@@ -1,0 +1,19 @@
+<section class="section-padding">
+    <div class="container">
+        <div class="row gutter-30">
+            {% assign weighted_credits = site.credits | sort: "weight" %}
+            {% for credit in weighted_credits limit:3 %}
+            <div class="col-md-4">
+                <div class="credit-content">
+                    <a href="{{ credit.url }}">
+                        <img src="{{ credit.thumb }}" alt=" {{ credit.title }}">
+                    </a>
+                    <h2 class="credit-title">
+                        <a href="{{ credit.url }}"> {{ credit.title }}</a>
+                    </h2>
+                </div>
+            </div>
+           {% endfor %}
+        </div>
+    </div>
+</section><!-- ./section -->
